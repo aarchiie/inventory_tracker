@@ -31,7 +31,7 @@ A comprehensive inventory management system with web interface and pathfinding c
 
 ```
 inventory-tracker/
-├── inventory.cpp          # C++ core inventory system
+├── inventory.cpp         # C++ inventory system
 ├── app.py                # Flask web application
 ├── templates/
 │   └── index.html        # Web interface
@@ -83,8 +83,3 @@ inventory-tracker/
    http://localhost:5000
    ```
 
-### Running the Console Application
-
-```bash
-./inventory
-```
