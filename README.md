@@ -1,6 +1,6 @@
 # Smart Inventory Tracker
 
-A comprehensive inventory management system with web interface and pathfinding capabilities for Gujarat cities. Built with C++ backend and Flask web framework.
+An inventory tracker system with web interface and pathfinding capabilities for Gujarat cities. Built with C++ backend and Flask web framework.
 
 ## Features
 
